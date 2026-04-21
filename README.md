@@ -6,94 +6,91 @@ Trarei os detalhes do que classificaria como "Essencial" dos comando do Linux pa
 
 **Navegação e Organização**
 
-##pwd 
+## pwd 
 **Função:** Mostra o caminho do diretório atual
 
-##ls 
+## ls 
 **Função:**
 
-##cd
+## cd
 **Função**
 
-##mkdir
+## mkdir
 **Função**
 
-##rmdir
+## rmdir
 **Função**
 
 **Manipulação de arquivos**
 
-##cat
+## cat
 **Função**
 
-##tac
+## tac
 **Função**
 
-##rm
+## rm
 **Função**
 
-##cp
+## cp
 **Função**
 
-##mv
+## mv
 **Função**
 
 **Processamento e Filtros**
 
-##grep
+## grep
 **Função**
 
-##head
+## head
 **Função**
 
-##tail
+## tail
 **Função**
 
-##wc
+## wc
 **Função**
 
-##sort
+## sort
 **Função**
 
-##cut
+## cut
 **Função**
 
-##diff
+## diff
 **Função**
 
-##less
+## less
 **Função**
 
-##less
+## more
 **Função**
 
-##more
-**Função**
-
-##find
+## find
 **Função**
 
 **Monitoramento do sistema**
 
-##ps
+## ps
 **Função**
 
-##top
+## top
 **Função**
 
-#kill
+# kill
 **Função**
 
-##free
+## free
 **Função**
 
-##df
+## df
 **Função**
 
-##du
+## du
 **Função**
 
-##uptime
+## uptime
 **Função**
 
 
