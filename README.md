@@ -6,121 +6,111 @@ Trarei os detalhes do que classificaria como "Essencial" dos comando do Linux pa
 
 **Navegação e Organização**
 
+
 ## pwd 
 **Função:** Mostra o caminho do diretório atual
+**Exemplo**
+'pwd'
 
 ## ls 
-**Função:**
+**Função:** Lista os arquivos de um diretório
 
 ## cd
-**Função**
+**Função** Entra em um diretório
 
 ## mkdir
+**Função** Cria um diretório no sistema
+
+## rmdir Remove um diretório do sistema
 **Função**
 
-## rmdir
-**Função**
 
 **Manipulação de arquivos**
 
+
 ## cat
-**Função**
+**Função** Mostra o conteudo de arquivo binário ou texto
 
 ## tac
-**Função**
+**Função** Mostra o conteudo de arquivo binário ou texto porém em ordem inversa
 
 ## rm
-**Função**
+**Função** Apaga arquivos 
 
 ## cp
-**Função**
+**Função** Copia arquivos
 
 ## mv
-**Função**
+**Função** Move ou renomeia arquivos
+
 
 **Processamento e Filtros**
 
+
 ## grep
-**Função**
+**Função** Busca padrões ou sequências específicas em arquivos
 
 ## head
-**Função**
+**Função** Mostra as linhas iniciais de um arquivo texto
 
 ## tail
-**Função**
+**Função** Mostra as linhas finais de um arquivo de texto
 
 ## wc
-**Função**
+**Função** Conta o número de palavras, bytes e linhas em um arquivo ou entrada padrão
 
 ## sort
-**Função**
+**Função** Organiza as linhas de um arquivo texto ou da entrada padrão
 
 ## cut
-**Função**
+**Função** Mostra seções de cada linha do arquivo dependendo das opções passadas ao programa
 
 ## diff
-**Função**
+**Função** Compara dois arquivos e mostra as diferenças entre eles
 
 ## less
-**Função**
+**Função** Permite fazer a paginação de arquivos ou da entrada padrão
 
 ## more
-**Função**
+**Função** Similar ao less, mas leitura simples
 
 ## find
-**Função**
+**Função** Procura por arquivos/diretórios no disco
+
 
 **Monitoramento do sistema**
 
+
 ## ps
-**Função**
+**Função** Lista os processos ativos no sistema
 
 ## top
-**Função**
+**Função** Monitora o uso de CPU e RAM em tempo real
 
 # kill
-**Função**
+**Função** Interrompe um processo travado
 
 ## free
-**Função**
+**Função** Mostra detalhes sobre a utilização da memória RAM do sistema
 
 ## df
-**Função**
+**Função** Mostra o espaço livre/ocupado de cada partição
 
 ## du
-**Função**
+**Função** Mostra o espaço ocupado por arquivos e sub-diretórios do diretório atual
 
 ## uptime
-**Função**
+**Função** Mostra o tempo de execução do sistema desde que o computador foi ligado
 
 
+**Permissões e auxilios**
 
 
+## chmod
+**Função** Muda a permissão de acesso a um arquivo ou diretório
 
+## man
+**Função** Abre o manual de ajuda de qualquer comando
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## clear
+**Função** Limpa a tela e posiciona o cursor no canto superior esquerdo do vídeo
