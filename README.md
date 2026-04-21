@@ -268,14 +268,6 @@ clear
 ---
 A elaboração desta wiki me permitiu consolidar o conhecimento sobre a linha de comandos Linux, ferramenta indispensavel quando falamos em respeito à laboratórios de Bioinformática e Eng. Biomédica para manipulação de grande quantidade de dados e automação de processos.
 
-
-
-
-
-
-
-
-
 **Fonte:** *Guia Foca GNU/Linux*
 
 
