@@ -2,9 +2,9 @@
 
 Trarei os detalhes do que classificaria como "Essencial" dos comando do Linux para laboratórios, tendo como base o guia Foca GNU/Linux, de modo a trazer eficiência será separada por categorias
 
-
+---
 **Navegação e Organização**
-
+---
 
 ## pwd 
 **Função:** Mostra o caminho do diretório atual
@@ -46,9 +46,9 @@ mkdir [opções] [caminho/diretório] [caminho1/diretório1]
 rmdir [caminho/diretório] [caminho1/diretório1]
 ```
 
-
+---
 **Manipulação de arquivos**
-
+---
 
 ## cat
 **Função:** Mostra o conteudo de arquivo de texto
@@ -90,9 +90,9 @@ cp [opções] [origem] [destino]
 mv [opções] [origem] [destino]
 ```
 
-
+---
 **Processamento e Filtros**
-
+---
 
 ## grep
 **Função:** Busca padrões ou sequências específicas em arquivos
@@ -174,9 +174,9 @@ more [arquivo]
 find [diretório] [opções/expressão]
 ```
 
-
+---
 **Monitoramento do sistema**
-
+---
 
 ## ps
 **Função:** Lista os processos ativos no sistema
@@ -234,9 +234,9 @@ du [opções]
 uptime
 ```
 
-
+---
 **Permissões e auxilios**
-
+---
 
 ## chmod
 **Função:** Muda a permissão de acesso a um arquivo ou diretório
@@ -256,7 +256,29 @@ man [seção] [comando/arquivo]
 
 ## clear
 **Função:** Limpa a tela e posiciona o cursor no canto superior esquerdo do vídeo
+
 **Exemplo**
 ```bash
 clear
 ```
+---
+
+### Conclusão
+
+---
+A elaboração desta wiki me permitiu consolidar o conhecimento sobre a linha de comandos Linux, ferramenta indispensavel quando falamos em respeito à laboratórios de Bioinformática e Eng. Biomédica para manipulação de grande quantidade de dados e automação de processos.
+
+
+
+
+
+
+
+
+
+**Fonte:** *Guia Foca GNU/Linux*
+
+
+
+Documentação realizada por: **Rafael Yudi da Silva Ueyama**
+---
